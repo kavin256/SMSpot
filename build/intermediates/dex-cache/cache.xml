@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/kavinranawella/Desktop/hackathon/SMSpot/SMSpot/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/kavinranawella/Desktop/hackathon/SMSpot/SMSpot/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_60e63bdccf4772554e01ee37be320c724096435d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kavinranawella/Desktop/hackathon/SMSpot/SMSpot/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e5f3e8b52fefde97fea5de63f1d44337c342de5">
+        <dex dex="/Users/kavinranawella/Desktop/hackathon/SMSpot/SMSpot/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_941397a71825868ae1a3caaff64f5d4cd027e22f/classes.dex" />
+    </item>
+
+</items>
